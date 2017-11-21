@@ -1,4 +1,4 @@
-Create a model for actors:
+## Create a model for actors:
 
 ***Create a class called Actor:***
 ```

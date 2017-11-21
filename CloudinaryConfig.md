@@ -1,4 +1,4 @@
-*** Create a cloudinary configuration class called CloudinaryConfig:***
+***Create a cloudinary configuration class called CloudinaryConfig:***
 
 ```
 import com.cloudinary.Cloudinary;

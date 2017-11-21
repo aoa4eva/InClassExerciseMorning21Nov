@@ -1,4 +1,4 @@
-*** Create a file called index.html and add the following text:***
+***Create a file called index.html and add the following text:***
 ```
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
